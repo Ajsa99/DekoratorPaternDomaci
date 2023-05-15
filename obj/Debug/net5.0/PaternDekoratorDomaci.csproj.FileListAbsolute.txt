@@ -1,0 +1,16 @@
+C:\Users\Ajsa\Desktop\PaternDekoratorDomaci\bin\Debug\net5.0\PaternDekoratorDomaci.exe
+C:\Users\Ajsa\Desktop\PaternDekoratorDomaci\bin\Debug\net5.0\PaternDekoratorDomaci.deps.json
+C:\Users\Ajsa\Desktop\PaternDekoratorDomaci\bin\Debug\net5.0\PaternDekoratorDomaci.runtimeconfig.json
+C:\Users\Ajsa\Desktop\PaternDekoratorDomaci\bin\Debug\net5.0\PaternDekoratorDomaci.runtimeconfig.dev.json
+C:\Users\Ajsa\Desktop\PaternDekoratorDomaci\bin\Debug\net5.0\PaternDekoratorDomaci.dll
+C:\Users\Ajsa\Desktop\PaternDekoratorDomaci\bin\Debug\net5.0\ref\PaternDekoratorDomaci.dll
+C:\Users\Ajsa\Desktop\PaternDekoratorDomaci\bin\Debug\net5.0\PaternDekoratorDomaci.pdb
+C:\Users\Ajsa\Desktop\PaternDekoratorDomaci\obj\Debug\net5.0\PaternDekoratorDomaci.csprojAssemblyReference.cache
+C:\Users\Ajsa\Desktop\PaternDekoratorDomaci\obj\Debug\net5.0\PaternDekoratorDomaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajsa\Desktop\PaternDekoratorDomaci\obj\Debug\net5.0\PaternDekoratorDomaci.AssemblyInfoInputs.cache
+C:\Users\Ajsa\Desktop\PaternDekoratorDomaci\obj\Debug\net5.0\PaternDekoratorDomaci.AssemblyInfo.cs
+C:\Users\Ajsa\Desktop\PaternDekoratorDomaci\obj\Debug\net5.0\PaternDekoratorDomaci.csproj.CoreCompileInputs.cache
+C:\Users\Ajsa\Desktop\PaternDekoratorDomaci\obj\Debug\net5.0\PaternDekoratorDomaci.dll
+C:\Users\Ajsa\Desktop\PaternDekoratorDomaci\obj\Debug\net5.0\ref\PaternDekoratorDomaci.dll
+C:\Users\Ajsa\Desktop\PaternDekoratorDomaci\obj\Debug\net5.0\PaternDekoratorDomaci.pdb
+C:\Users\Ajsa\Desktop\PaternDekoratorDomaci\obj\Debug\net5.0\PaternDekoratorDomaci.genruntimeconfig.cache
